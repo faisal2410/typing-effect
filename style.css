@@ -64,136 +64,118 @@ body{
 
 @keyframes typing {
     0% {
-        content: 'P|';
+        content: 'H|';
     }
 
     4% {
-        content: 'Pr|';
+        content: 'HF |';
     }
 
     8% {
-        content: 'Pro|';
+        content: 'HF |';
     }
 
     12% {
-        content: 'Prog|';
+        content: 'HF C|';
     }
 
     16% {
-        content: 'Progr|';
+        content: 'HF Co|';
     }
 
     20% {
-        content: 'Progra|';
+        content: 'HF Con|';
     }
 
     24% {
-        content: 'Program|';
+        content: 'HF Cons|';
     }
 
     28% {
-        content: 'Programm|';
+        content: 'HF Consu|';
     }
 
     32% {
-        content: 'Programmi|';
+        content: 'HF Consul|';
     }
 
     36% {
-        content: 'Programmin|';
+        content: 'HF Consult|';
     }
 
     40% {
-        content: 'Programming|';
+        content: 'HF Consult|';
     }
 
     44% {
-        content: 'Programming |';
+        content: 'HF Consulta |';
     }
 
     48% {
-        content: 'Programming h|';
+        content: 'HF Consultan|';
     }
 
     52% {
-        content: 'Programming he|';
+        content: 'HF Consultanc|';
     }
 
     56% {
-        content: 'Programming her|';
+        content: 'HF Consultancy|';
     }
 
-    60% {
-        content: 'Programming hero|';
-    }
+   
 
-    64%,
-    83% {
-        content: 'Programming hero|';
-    }
-
-    84% {
-        content: 'Programming her|';
-    }
-
-    85% {
-        content: 'Programming he|';
-    }
-
-    86% {
-        content: 'Programming h|';
-    }
-
+    60%,
     87% {
-        content: 'Programming |';
+        content: 'HF Consultancy|';
     }
 
     88% {
-        content: 'Programming|';
+        content: 'HF Consultanc|';
     }
 
     89% {
-        content: 'Programmin|';
+        content: 'HF Consultan|';
     }
 
     90% {
-        content: 'Programmi|';
+        content: 'HF Consulta|';
     }
 
     91% {
-        content: 'Programm|';
+        content: 'HF Consult|';
     }
 
     92% {
-        content: 'Program|';
+        content: 'HF Consul|';
     }
 
     93% {
-        content: 'Progra|';
+        content: 'HF Consu|';
     }
 
     94% {
-        content: 'Progr|';
+        content: 'HF Cons|';
     }
 
     95% {
-        content: 'Prog|';
+        content: 'HF Con|';
     }
 
     96% {
-        content: 'Pro|';
+        content: 'HF Co|';
     }
 
     97% {
-        content: 'Pr|';
+        content: 'HF C|';
     }
 
     98% {
-        content: 'P|';
+        content: 'HF |';
     }
 
     99% {
-        content: '|';
+        content: 'H|';
     }
 
     100% {
